@@ -6,4 +6,5 @@ The script depends on dotSCAD. Put it in a folder called `dot` somewhere where O
 
 Change the variables in the script to edit the parameters.
 
+
 ![example](img.png)
